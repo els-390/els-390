@@ -22,6 +22,8 @@ My SheCodes profile can be found [here](https://www.shecodes.io/graduates/38700-
 - Python
 - PostgreSQL
 - React
+- TypeScript
+- PHP
 
 ## 💼 Some of the current skills I have 
 
